@@ -13,13 +13,9 @@ Security Engineering Intern @ [Clerk](https://clerk.com) — working on applicat
 
 - **blackbox-mcp** — an open-source black-box recorder for Claude Code / MCP: session timelines, risk flags, and one-command incident reports for AI coding agents
 
-## Built
-
-- **ShieldClaw** — authentication + security layer for OpenClaw, Hack Canada award winner. OAuth-flow security tooling.
-
 ## Stack
 
-**Agentic AI Engineering**
+**Agentic Development**
 `Agent Orchestration` `Agentic AppSec` `Security Harnesses` `Prompt Engineering` `Context Engineering` `Dynamic Agent Workflows` `MCP`
 
 **Security Engineering**
