@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Adam 👋
 
-<!--
-**adamhjouj/adamhjouj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security Engineering Intern @ [Clerk](https://clerk.com) — working on application security and vulnerability research across auth infrastructure
 
-Here are some ideas to get you started:
+## Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔐 **Application security** — auth flows, session handling, access control, OAuth internals
+- 🕵️ **Vulnerability research** — logic bugs, authz gaps, the stuff static analysis misses
+- 🤖 **AI security** — agent runtime safety, MCP tool risk, using LLMs for vuln hunting
+- 📜 Working toward **CompTIA Security+**
+
+## Building
+
+- **blackbox-mcp** — an open-source black-box recorder for Claude Code / MCP: session timelines, risk flags, and one-command incident reports for AI coding agents
+
+## Built
+
+- **ShieldClaw** — authentication + security layer for OpenClaw, Hack Canada award winner. OAuth-flow security tooling.
+
+## Stack
+
+**Agentic AI Engineering**
+`Agent Orchestration` `Agentic AppSec` `Security Harnesses` `Prompt Engineering` `Context Engineering` `Dynamic Agent Workflows` `MCP`
+
+**Security Engineering**
+`SAST/DAST` `Semgrep` `CodeQL` `Burp Suite` `TruffleHog/Gitleaks` `OAuth2/OIDC` `Threat Modeling`
+
+---
+
+📫 [LinkedIn](https://linkedin.com/in/adamkissa) · [X/Twitter](https://x.com/adamk_issa) · [Email](mailto:adamkh.issa@gmail.com)
