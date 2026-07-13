@@ -1,6 +1,6 @@
 # Hi, I'm Adam 👋
 
-Im a Security Engineering Intern @ [Clerk](https://clerk.com) — working on application security and AI-Enabled Red Teaming across auth infrastructure
+Im a Security Engineering Intern @ [Clerk](https://clerk.com) — working on Application Security and AI-Enabled Red Teaming across auth infrastructure
 
 ## Focus...
 
