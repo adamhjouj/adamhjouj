@@ -1,6 +1,6 @@
 # Hi, I'm Adam 👋
 
-A Security Engineering Intern @ [Clerk](https://clerk.com), and a University of Toronto Computer engineering student working on Application Security and AI-Enabled Red Teaming across auth infrastructure
+A Security Engineering Intern @ [Clerk](https://clerk.com), and a University of Toronto Computer Engineering student working on Application Security and AI-Enabled Red Teaming across auth infrastructure
 
 ## Focus...
 
@@ -10,7 +10,7 @@ A Security Engineering Intern @ [Clerk](https://clerk.com), and a University of 
 
 ## Building...
 
-- **blackbox-mcp** — an open-source black-box recorder for Claude Code / MCP: session timelines, risk flags, and one-command incident reports for AI coding agents
+- **blackbox** — an open-source black-box recorder for Claude Code: session timelines, risk flags, and one-command incident reports for AI coding agents
 
 ## Stack...
 
