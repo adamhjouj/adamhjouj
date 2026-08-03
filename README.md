@@ -1,6 +1,6 @@
 # adam issa
 
-security engineering @ [clerk](https://clerk.com) · computer engineering @ uoft
+security engineering @ [clerk](https://clerk.com) · computer engineering @ uoft · 3x hackathon winner
 
 i break auth flows for a living and build tooling to catch ai agents doing things they shouldn't.
 
