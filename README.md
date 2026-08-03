@@ -1,25 +1,27 @@
-# Hi, I'm Adam 👋
+# hi, i'm adam 👋
 
-A Security Engineering Intern @ [Clerk](https://clerk.com), and a Computer Engineering student @ The University of Toronto working on Application Security and AI-Enabled Red Teaming
+a security engineering intern @ [clerk](https://clerk.com), and a computer engineering student @ the university of toronto working on application security and ai-enabled red teaming
 
-## Focus...
+## focus...
 
-- 🔐 **Application security** — auth flows, session handling, access control, OAuth internals
-- 🤖 **AI security** — agent runtime safety, MCP tool risk, using LLMs for vulnerability hunting
-- 📜 Working toward **CompTIA Security+**
+- 🔐 **application security** — auth flows, session handling, access control, oauth internals
+- 🤖 **ai security** — agent runtime safety, mcp tool risk, using llms for vulnerability hunting
+- 📜 working toward **comptia security+**
 
-## Building...
+## building...
 
 - **blackbox** — an open-source forensics recorder for cli agents: session timelines, risk flags, and one-command incident reports for agent sessions
 
-## Stack...
+## stack...
 
-**Agentic Development**
-`Agent Orchestration` `Agentic AppSec` `Security Harnesses's` `Prompt Engineering` `Context Engineering` `Dynamic Agent Workflows` `MCP Security`
+**agentic development**
 
-**Security Engineering**
-`SAST/DAST` `Semgrep` `CodeQL` `Burp Suite` `TruffleHog/Gitleaks` `OAuth2/OIDC` `Threat Modeling`
+`agent orchestration` `agentic appsec` `security harnesses's` `prompt engineering` `context engineering` `dynamic agent workflows` `mcp security`
+
+**security engineering**
+
+`sast/dast` `semgrep` `codeql` `burp suite` `trufflehog/gitleaks` `oauth2/oidc` `threat modeling`
 
 ---
 
-📫 [LinkedIn](https://linkedin.com/in/adamkissa) · [X/Twitter](https://x.com/adamk_issa) · [Email](mailto:adamkh.issa@gmail.com)
+📫 [linkedin](https://linkedin.com/in/adamkissa) · [x/twitter](https://x.com/adamk_issa) · [email](mailto:adamkh.issa@gmail.com)
