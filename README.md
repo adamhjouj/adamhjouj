@@ -2,11 +2,11 @@
 
 security engineering @ [clerk](https://clerk.com) · computer engineering @ uoft · 3x hackathon winner
 
-i break auth flows for a living and build tooling to catch ai agents doing things they shouldn't.
+i break auth flows for a living and break everything else for fun.
 
 ---
 
-### 🔦 blackbox
+### what im currently building
 
 an open-source forensics recorder for cli agents. session timelines, risk flags, and one-command incident reports for when an agent goes sideways.
 
