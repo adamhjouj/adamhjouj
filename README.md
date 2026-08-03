@@ -1,27 +1,27 @@
-# hi, i'm adam 👋
+# adam issa
 
-a security engineering intern @ [clerk](https://clerk.com), and a computer engineering student @ uoft working on application security and ai-enabled red teaming
+security engineering @ [clerk](https://clerk.com) · computer engineering @ uoft
 
-## focus...
-
-- 🔐 **application security** — auth flows, session handling, access control, oauth internals
-- 🤖 **ai security** — agent runtime safety, mcp tool risk, using llms for vulnerability hunting
-- 📜 working toward **comptia security+**
-
-## building...
-
-- **blackbox** — an open-source forensics recorder for cli agents: session timelines, risk flags, and one-command incident reports for agent sessions
-
-## stack...
-
-**agentic development**
-
-`agent orchestration` `agentic appsec` `security harnesses's` `prompt engineering` `context engineering` `dynamic agent workflows` `mcp security`
-
-**security engineering**
-
-`sast/dast` `semgrep` `codeql` `burp suite` `trufflehog/gitleaks` `oauth2/oidc` `threat modeling`
+i break auth flows for a living and build tooling to catch ai agents doing things they shouldn't.
 
 ---
 
-📫 [linkedin](https://linkedin.com/in/adamkissa) · [x/twitter](https://x.com/adamk_issa) · [email](mailto:adamkh.issa@gmail.com)
+### 🔦 blackbox
+
+an open-source forensics recorder for cli agents. session timelines, risk flags, and one-command incident reports for when an agent goes sideways.
+
+**[→ repo](https://github.com/adamhjouj/blackbox)**
+
+---
+
+### what i work on
+
+**auth internals** — oauth2/oidc, session handling, access control, token lifecycles
+
+**agent security** — runtime safety, mcp tool risk, ai vulnerability hunting harnesses
+
+**tooling** — semgrep, codeql, burp suite, trufflehog/gitleaks, threat modeling
+
+---
+
+📫 [linkedin](https://linkedin.com/in/adamkissa) · [x](https://x.com/adamk_issa) · [email](mailto:adamkh.issa@gmail.com)
