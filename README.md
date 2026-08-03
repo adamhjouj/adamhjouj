@@ -1,6 +1,6 @@
 # hi, i'm adam 👋
 
-a security engineering intern @ [clerk](https://clerk.com), and a computer engineering student @ the university of toronto working on application security and ai-enabled red teaming
+a security engineering intern @ [clerk](https://clerk.com), and a computer engineering student @ uoft working on application security and ai-enabled red teaming
 
 ## focus...
 
