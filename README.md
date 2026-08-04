@@ -8,7 +8,7 @@ i break auth flows for a living and break everything else for fun.
 
 ### what im currently building
 
-an open-source forensics recorder for cli agents. session timelines, risk flags, and one-command incident reports for when an agent goes sideways.
+blackbox. an open-source digital forensics recorder for cli agents. session timelines, risk flags, and one-command incident reports for when an agent goes sideways.
 
 **[→ repo](https://github.com/adamhjouj/blackbox)**
 
